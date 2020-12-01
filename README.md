@@ -1,2 +1,1 @@
-# Hello-Calgary
-Calgary Weather statistics, month of Dec
+# Calgary Weather statistics, month of Dec
